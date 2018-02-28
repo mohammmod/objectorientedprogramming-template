@@ -1,8 +1,8 @@
-package oop.pset1;
+package pset1;
 
-import oop.pset1.controller.MovieDatabaseSummarizer;
-import oop.pset1.view.Summary;
-import oop.pset1.view.SummaryDisplayer;
+import pset1.controller.MovieDatabaseSummarizer;
+import pset1.modal.Summary;
+import pset1.view.SummaryDisplayer;
 
 import java.util.Optional;
 
