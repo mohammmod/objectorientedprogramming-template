@@ -1,6 +1,6 @@
-package pset2.controller;
+package polymorphsem.pset2.controller;
 
-import pset2.modal.Moves;
+import polymorphsem.pset2.modal.Moves;
 
 import java.util.HashMap;
 

@@ -1,7 +1,7 @@
-package pset2.controller;
+package polymorphsem.pset2.controller;
 
-import pset2.modal.Moves;
-import pset2.view.Displayer;
+import polymorphsem.pset2.modal.Moves;
+import polymorphsem.pset2.view.Displayer;
 
 public class RockScissorsPaper {
     PlayerFactory players = new PlayerFactory();

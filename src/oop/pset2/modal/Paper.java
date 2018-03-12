@@ -1,4 +1,4 @@
-package pset2.modal;
+package polymorphsem.pset2.modal;
 
 public class Paper implements Moves {
     @Override

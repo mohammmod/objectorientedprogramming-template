@@ -1,7 +1,7 @@
-package pset2.view;
+package polymorphsem.pset2.view;
 
-import pset2.controller.PossibleMove;
-import pset2.modal.Moves;
+import polymorphsem.pset2.controller.PossibleMove;
+import polymorphsem.pset2.modal.Moves;
 
 import java.util.stream.Collectors;
 

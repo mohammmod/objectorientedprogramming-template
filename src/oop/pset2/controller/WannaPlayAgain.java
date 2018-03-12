@@ -1,4 +1,4 @@
-package pset2.controller;
+package polymorphsem.pset2.controller;
 
 import java.util.Scanner;
 

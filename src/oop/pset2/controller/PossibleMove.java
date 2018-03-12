@@ -1,9 +1,9 @@
-package pset2.controller;
+package polymorphsem.pset2.controller;
 
-import pset2.modal.Moves;
-import pset2.modal.Paper;
-import pset2.modal.Rock;
-import pset2.modal.Scissors;
+import polymorphsem.pset2.modal.Moves;
+import polymorphsem.pset2.modal.Paper;
+import polymorphsem.pset2.modal.Rock;
+import polymorphsem.pset2.modal.Scissors;
 
 import java.util.ArrayList;
 import java.util.List;
